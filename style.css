@@ -450,14 +450,9 @@ margin: 0 auto;
                                         border-radius: 50%;
                                         margin: 0 auto;
                                         z-index: 100;
-                                     position:absolute;
+                                        
                                     }
-                                    .img>img{
-                                        width:200px;
-                                        height: 200px;
-                                        border-radius: 50%;
-                                       position:absolute;
-                                    }
+                                   
                               #about .history li:after{
                                         content: '';
                                         display: block;
